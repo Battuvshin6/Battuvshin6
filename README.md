@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Battuvshin</h1>
 <h3 align="center">A passionate Full Stack Developer from Mongolia</h3>
-<img alt='coding' align='right' width='400' src='https://tenor.com/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740'>
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/1oF1KAEYvmXBMo6uTS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-tech-1oF1KAEYvmXBMo6uTS">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=battuvshin6&label=Profile%20views&color=0e75b6&style=flat" alt="battuvshin6" /> </p>
 
 - 🔭 I’m currently working on **Food Delivery Application**
