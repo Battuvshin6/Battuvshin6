@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Battuvshin</h1>
 <h3 align="center">A passionate Full Stack Developer from Mongolia</h3>
-
+<img alt='coding' align='right' width='400' src='https://tenor.com/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=battuvshin6&label=Profile%20views&color=0e75b6&style=flat" alt="battuvshin6" /> </p>
 
 - 🔭 I’m currently working on **Food Delivery Application**
